@@ -3,7 +3,7 @@
   "networkName": "K-NET",
   "timestamp": "02:01:47",
   "facilities": [
-    { "facilityId": "K-27", "state": "ARMED", "lastContactTime": "18:00:03", "location": { "city": "Shelton", "state": "WA", "lat": 47.215, "lon": -123.100 } },
+    { "facilityId": "K-27", "state": "DESTROYED", "lastContactTime": "18:00:03", "location": { "city": "Shelton", "state": "WA", "lat": 47.215, "lon": -123.100 } },
     { "facilityId": "K-02", "state": "DESTROYED", "lastContactTime": "18:41:22", "location": { "city": "Fernley", "state": "NV", "lat": 39.608, "lon": -119.252 } },
     { "facilityId": "K-11", "state": "DESTROYED", "lastContactTime": "19:12:40", "location": { "city": "Detroit", "state": "MI", "lat": 42.331, "lon": -83.046 } },
     { "facilityId": "K-14", "state": "DESTROYED", "lastContactTime": "19:55:08", "location": { "city": "El Paso", "state": "TX", "lat": 31.762, "lon": -106.485 } },
